@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Model files (too large for git)
+*.litertlm
+*.tflite
+Models/
+
+# Build artifacts
+*.dylib
+!lib/liblitertlm.dylib.placeholder
+bazel-*
+
+# Logs
+*.log
+*.profraw
+
+# Environment
+.env
+.env.local
