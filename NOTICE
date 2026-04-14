@@ -1,0 +1,13 @@
+# Third-Party Notices
+
+## Google LiteRT-LM
+Copyright 2024 Google LLC
+License: Apache License 2.0
+Source: https://github.com/google-ai-edge/LiteRT-LM
+
+## Gemma Models
+Gemma models are released under the Gemma Terms of Use.
+https://ai.google.dev/gemma/terms
+
+This repository does NOT distribute Gemma model files.
+Users must obtain models separately from Google.
